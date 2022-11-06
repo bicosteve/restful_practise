@@ -3,6 +3,7 @@ Practise repository for flask restful
 
 #IMPLEMENTATION
 This is a rest api utilizing flask restful and flask
+The database implementation is SQL Alchemy with sqlite.
 
 #USAGE
 The API mimicks a store where items can be uploaded, deleted, retrieved and edited.  In addition, there are users who have to authenticate by
